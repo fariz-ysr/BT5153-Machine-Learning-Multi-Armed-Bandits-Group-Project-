@@ -1,6 +1,6 @@
 # MIND Contextual Multi-Armed Bandit Evaluation
 
-This project implements and evaluates contextual Multi-Armed Bandit (MAB) algorithms for news article recommendation using the Microsoft News Dataset (MIND). The focus is on comparing different bandit strategies in an offline evaluation setting with chronological ordering.
+This project implements and evaluates contextual Multi-Armed Bandit (MAB) algorithms for news article recommendation using the Microsoft News Dataset (MIND). The focus is on comparing different bandit strategies in an offline evaluation setting with chronological ordering. This project was done by my team (special thanks to Ng Jun Wei, Rasyiqah binte Shaik Mohamed Salim, Tan Hua Swen and Teo Boon Khai Marcus) and I. 
 
 ## Overview
 
